@@ -1,5 +1,5 @@
 # 🏦 Bank Loan Report Dashboard  
-
+ 
 📌 **Project Objective**  
 To build a **comprehensive Bank Loan Analysis Dashboard in Power BI**, powered by **MS SQL Server queries**, with the goal of delivering **end-to-end visibility** into:  
 
